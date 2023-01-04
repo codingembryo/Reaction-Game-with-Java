@@ -1,0 +1,19 @@
+#box
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    top: 150px;
+}
+
+body
+{
+    background-color: black;
+}
+
+h1, p
+{
+    color: orange;
+}
